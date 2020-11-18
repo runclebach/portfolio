@@ -5,7 +5,10 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Mono', monospace;
 font-family: 'Ubuntu', sans-serif;--!> */
-
+html, body {
+    width:auto!important;
+    overflow-x:hidden!important;
+}
 body {
   margin: 0;
   text-align: center;
